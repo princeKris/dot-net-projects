@@ -15,3 +15,7 @@ C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.Form4.resources
 C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.Form5.resources
 C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.Form6.resources
 C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.Form7.resources
+C:\projects\c# projects\ConatactApp\ContApp\bin\Debug\ContApp.exe.manifest
+C:\projects\c# projects\ConatactApp\ContApp\bin\Debug\ContApp.application
+C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.exe.manifest
+C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.application
