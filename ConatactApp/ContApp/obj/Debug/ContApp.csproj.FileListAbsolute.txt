@@ -1,0 +1,17 @@
+C:\projects\c# projects\ConatactApp\ContApp\bin\Debug\ContApp.exe.config
+C:\projects\c# projects\ConatactApp\ContApp\bin\Debug\ContApp.exe
+C:\projects\c# projects\ConatactApp\ContApp\bin\Debug\ContApp.pdb
+C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.csproj.AssemblyReference.cache
+C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.csproj.SuggestedBindingRedirects.cache
+C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.Form1.resources
+C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.Form2.resources
+C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.Properties.Resources.resources
+C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.csproj.GenerateResource.cache
+C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.csproj.CoreCompileInputs.cache
+C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.exe
+C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.pdb
+C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.Form3.resources
+C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.Form4.resources
+C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.Form5.resources
+C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.Form6.resources
+C:\projects\c# projects\ConatactApp\ContApp\obj\Debug\ContApp.Form7.resources
