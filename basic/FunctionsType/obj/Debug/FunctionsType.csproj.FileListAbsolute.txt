@@ -1,0 +1,7 @@
+C:\projects\c# projects\basic\FunctionsType\bin\Debug\FunctionsType.exe.config
+C:\projects\c# projects\basic\FunctionsType\bin\Debug\FunctionsType.exe
+C:\projects\c# projects\basic\FunctionsType\bin\Debug\FunctionsType.pdb
+C:\projects\c# projects\basic\FunctionsType\obj\Debug\FunctionsType.csproj.AssemblyReference.cache
+C:\projects\c# projects\basic\FunctionsType\obj\Debug\FunctionsType.csproj.CoreCompileInputs.cache
+C:\projects\c# projects\basic\FunctionsType\obj\Debug\FunctionsType.exe
+C:\projects\c# projects\basic\FunctionsType\obj\Debug\FunctionsType.pdb

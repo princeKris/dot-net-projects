@@ -1,0 +1,7 @@
+C:\projects\c# projects\basic\ArraysType\bin\Debug\ArraysType.exe.config
+C:\projects\c# projects\basic\ArraysType\bin\Debug\ArraysType.exe
+C:\projects\c# projects\basic\ArraysType\bin\Debug\ArraysType.pdb
+C:\projects\c# projects\basic\ArraysType\obj\Debug\ArraysType.csproj.AssemblyReference.cache
+C:\projects\c# projects\basic\ArraysType\obj\Debug\ArraysType.csproj.CoreCompileInputs.cache
+C:\projects\c# projects\basic\ArraysType\obj\Debug\ArraysType.exe
+C:\projects\c# projects\basic\ArraysType\obj\Debug\ArraysType.pdb

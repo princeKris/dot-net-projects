@@ -1,0 +1,7 @@
+C:\projects\c# projects\basic\ObjectClass\bin\Debug\ObjectClass.exe.config
+C:\projects\c# projects\basic\ObjectClass\bin\Debug\ObjectClass.exe
+C:\projects\c# projects\basic\ObjectClass\bin\Debug\ObjectClass.pdb
+C:\projects\c# projects\basic\ObjectClass\obj\Debug\ObjectClass.csproj.AssemblyReference.cache
+C:\projects\c# projects\basic\ObjectClass\obj\Debug\ObjectClass.csproj.CoreCompileInputs.cache
+C:\projects\c# projects\basic\ObjectClass\obj\Debug\ObjectClass.exe
+C:\projects\c# projects\basic\ObjectClass\obj\Debug\ObjectClass.pdb

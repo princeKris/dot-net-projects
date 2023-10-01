@@ -1,0 +1,7 @@
+C:\projects\c# projects\basic\DatatypeAndOperators\bin\Debug\DatatypeAndOperators.exe.config
+C:\projects\c# projects\basic\DatatypeAndOperators\bin\Debug\DatatypeAndOperators.exe
+C:\projects\c# projects\basic\DatatypeAndOperators\bin\Debug\DatatypeAndOperators.pdb
+C:\projects\c# projects\basic\DatatypeAndOperators\obj\Debug\DatatypeAndOperators.csproj.AssemblyReference.cache
+C:\projects\c# projects\basic\DatatypeAndOperators\obj\Debug\DatatypeAndOperators.csproj.CoreCompileInputs.cache
+C:\projects\c# projects\basic\DatatypeAndOperators\obj\Debug\DatatypeAndOperators.exe
+C:\projects\c# projects\basic\DatatypeAndOperators\obj\Debug\DatatypeAndOperators.pdb
